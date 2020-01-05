@@ -1,0 +1,22 @@
+{
+  "name": "rollup-synthetic-named-exports",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "rollup -c rollup.config.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LarsDenBakker/rollup-synthetic-named-exports.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LarsDenBakker/rollup-synthetic-named-exports/issues"
+  },
+  "homepage": "https://github.com/LarsDenBakker/rollup-synthetic-named-exports#readme",
+  "devDependencies": {
+    "rollup": "^1.28.0"
+  }
+}
